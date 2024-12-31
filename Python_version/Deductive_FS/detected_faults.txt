@@ -1,0 +1,11 @@
+Input Vector: 1110101
+
+----- FAULT DETECTED -----
+1 stuck at 0
+3 stuck at 0
+5 stuck at 0
+7 stuck at 0
+9 stuck at 1
+11 stuck at 1
+12 stuck at 0
+13 stuck at 0
